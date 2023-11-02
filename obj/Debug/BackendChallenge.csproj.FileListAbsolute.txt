@@ -1,0 +1,16 @@
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\bin\Debug\BackendChallenge.exe.config
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\bin\Debug\BackendChallenge.exe
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\bin\Debug\BackendChallenge.pdb
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\bin\Debug\Interop.WMPLib.dll
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\Interop.WMPLib.dll
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.csproj.ResolveComReference.cache
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.Form1.resources
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.Properties.Resources.resources
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.csproj.GenerateResource.cache
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.exe
+C:\Users\ssame\Desktop\Github\BackendChallenge\BackendChallenge\obj\Debug\BackendChallenge.pdb
